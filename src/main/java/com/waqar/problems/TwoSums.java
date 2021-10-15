@@ -1,4 +1,4 @@
-package problems;
+package com.waqar.problems;
 
 import java.util.HashMap;
 

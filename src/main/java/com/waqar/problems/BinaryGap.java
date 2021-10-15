@@ -1,4 +1,4 @@
-package problems;
+package com.waqar.problems;
 
 import java.util.Scanner;
 import java.util.stream.Stream;
@@ -10,6 +10,11 @@ import java.util.stream.Stream;
  */
 
 public class BinaryGap {
+	public static void main(String[] args) {
+		BinaryGap binaryGap= new BinaryGap();
+		binaryGap.getBinaryGap();
+		
+	}
 	
 	private int getInput() {
 
