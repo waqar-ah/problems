@@ -1,7 +1,6 @@
 package com.waqar.problems;
 
 import java.util.Scanner;
-import java.util.stream.Stream;
 
 /**
  * @author Waqar Ahmad
