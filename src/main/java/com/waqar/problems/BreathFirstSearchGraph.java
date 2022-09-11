@@ -1,13 +1,11 @@
 package com.waqar.problems;
 
-import java.util.ArrayList;
-import java.util.List;
 
 public class BreathFirstSearchGraph {
     public static void main(String[] args) {
-        int[][] graph = { { 0, 1 }, { 0, 2 }, { 1, 2 }, { 2, 0 }, { 2, 3 }, { 3, 3 } };
-        int start = 2;
-        System.out.println(Math.max(0,0));
+        // int[][] graph = { { 0, 1 }, { 0, 2 }, { 1, 2 }, { 2, 0 }, { 2, 3 }, { 3, 3 } };
+        // int start = 2;
+        System.out.println(6%3);
         // BFS(graph, start);
     }
 
